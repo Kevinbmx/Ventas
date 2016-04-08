@@ -3,3 +3,7 @@ D:\semestre 9\soft 3\proyecto\CS\Entities\bin\Debug\Entities.pdb
 D:\semestre 9\soft 3\proyecto\CS\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 D:\semestre 9\soft 3\proyecto\CS\Entities\obj\Debug\Entities.dll
 D:\semestre 9\soft 3\proyecto\CS\Entities\obj\Debug\Entities.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\Entities\bin\Debug\Entities.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\Entities\bin\Debug\Entities.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\Entities\obj\Debug\Entities.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\Entities\obj\Debug\Entities.pdb

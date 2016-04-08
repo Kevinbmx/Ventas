@@ -5,3 +5,10 @@ D:\semestre 9\soft 3\proyecto\CS\DataAcces\bin\Debug\Entities.pdb
 D:\semestre 9\soft 3\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
 D:\semestre 9\soft 3\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
 D:\semestre 9\soft 3\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb

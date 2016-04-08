@@ -10,3 +10,15 @@ D:\semestre 9\soft 3\proyecto\CS\View_WebApp\bin\DataAcces.pdb
 D:\semestre 9\soft 3\proyecto\CS\View_WebApp\obj\Debug\View_WebApp.csprojResolveAssemblyReference.cache
 D:\semestre 9\soft 3\proyecto\CS\View_WebApp\obj\Debug\View.dll
 D:\semestre 9\soft 3\proyecto\CS\View_WebApp\obj\Debug\View.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\View.dll.config
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\View.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\View.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\Controllers.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\Entities.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\DataAcces.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\Controllers.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\Entities.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\bin\DataAcces.pdb
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\obj\Debug\View_WebApp.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\obj\Debug\View.dll
+C:\Users\kevin\Desktop\Venta\Clientes\proyecto\CS\View_WebApp\obj\Debug\View.pdb
