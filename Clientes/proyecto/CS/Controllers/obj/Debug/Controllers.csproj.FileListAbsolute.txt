@@ -1,0 +1,9 @@
+D:\semestre 9\soft 3\proyecto\CS\Controllers\bin\Debug\Controllers.dll
+D:\semestre 9\soft 3\proyecto\CS\Controllers\bin\Debug\Controllers.pdb
+D:\semestre 9\soft 3\proyecto\CS\Controllers\bin\Debug\DataAcces.dll
+D:\semestre 9\soft 3\proyecto\CS\Controllers\bin\Debug\Entities.dll
+D:\semestre 9\soft 3\proyecto\CS\Controllers\bin\Debug\Entities.pdb
+D:\semestre 9\soft 3\proyecto\CS\Controllers\bin\Debug\DataAcces.pdb
+D:\semestre 9\soft 3\proyecto\CS\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+D:\semestre 9\soft 3\proyecto\CS\Controllers\obj\Debug\Controllers.dll
+D:\semestre 9\soft 3\proyecto\CS\Controllers\obj\Debug\Controllers.pdb

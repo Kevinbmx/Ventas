@@ -1,0 +1,7 @@
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\bin\Debug\DataAcces.dll
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\bin\Debug\DataAcces.pdb
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\bin\Debug\Entities.dll
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\bin\Debug\Entities.pdb
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
+D:\semestre 9\soft 3\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb
