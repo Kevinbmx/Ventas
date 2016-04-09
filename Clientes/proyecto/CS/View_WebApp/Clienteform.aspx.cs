@@ -30,5 +30,11 @@ namespace View
             Negocio.Insert(cliente);
             lista();
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
