@@ -30,5 +30,14 @@ namespace View
             Negocio.Insert(producto);
             lista();
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Negocio.Delete(Convert.ToInt32(TextBox4.Text));
+            lista();
+        }
+
+
+
     }
 }
