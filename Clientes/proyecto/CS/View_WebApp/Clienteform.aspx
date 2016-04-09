@@ -16,11 +16,13 @@
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
         <br />
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="insertar" />
-        <asp:GridView ID="GridView1" runat="server">
+        <asp:GridView ID="GridView1" runat="server" Width="368px">
         </asp:GridView>
     
         <br />
-        ID<asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+        ID<asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource1" DataTextField="nombre" DataValueField="cliente_id" Height="31px" Width="145px">
+        </asp:DropDownList>
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ClientesConnectionString %>" SelectCommand="SELECT * FROM [tbl_cliente]"></asp:SqlDataSource>
         <asp:Button ID="Button2" runat="server" OnClick="Button2_Click1" Text="eliminar" />
     
     </div>

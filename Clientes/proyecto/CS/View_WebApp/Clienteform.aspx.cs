@@ -29,14 +29,16 @@ namespace View
             cliente.Nit =Convert.ToInt32(TextBox2.Text);
             Negocio.Insert(cliente);
             lista();
+            Response.Redirect("Clienteform.aspx");
         }
 
 
         protected void Button2_Click1(object sender, EventArgs e)
         {
-            Negocio.Delete(Convert.ToInt32(TextBox3.Text));
+            Negocio.Delete(Convert.ToInt32(DropDownList1.Text));
             lista();
+            Response.Redirect("Clienteform.aspx");
         }
-
+        
     }
 }
