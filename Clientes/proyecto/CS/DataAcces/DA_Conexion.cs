@@ -16,7 +16,7 @@ namespace DataAcces
         {
             System.Configuration.AppSettingsReader config = new System.Configuration.AppSettingsReader();
             con = new SqlConnection();
-            this.con.ConnectionString = ConfigurationManager.ConnectionStrings["ClientesConnectionString"].ConnectionString;
+            this.con.ConnectionString = ConfigurationManager.ConnectionStrings["ClientesConnectionString2"].ConnectionString;
             //Sin web.config o app.config usar la cadena de conexion así:
 			//this.con.ConnectionString ="Server=10.10.10.10; Database=Test_database; User ID=myuser; Password=mypassword;";
 			

@@ -61,6 +61,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Productoform.aspx" />
     <Content Include="Clienteform.aspx" />
     <Content Include="Venta.aspx" />
     <Content Include="Web.config" />
@@ -73,6 +74,13 @@
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Productoform.aspx.cs">
+      <DependentUpon>Productoform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productoform.aspx.designer.cs">
+      <DependentUpon>Productoform.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Clienteform.aspx.cs">
       <DependentUpon>Clienteform.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
