@@ -16,6 +16,7 @@ namespace View
         protected void Page_Load(object sender, EventArgs e)
         {
             lista();
+           
         }
         public void lista(){
             GridView1.DataSource = Negocio.SelectAllList();
@@ -29,12 +30,14 @@ namespace View
             producto.Precio =Convert.ToInt32(TextBox2.Text);
             Negocio.Insert(producto);
             lista();
+            Response.Redirect("Productoform.aspx");
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            Negocio.Delete(Convert.ToInt32(TextBox4.Text));
+            Negocio.Delete(Convert.ToInt32(DropDownList1.Text));
             lista();
+            Response.Redirect("Productoform.aspx");
         }
 
 
