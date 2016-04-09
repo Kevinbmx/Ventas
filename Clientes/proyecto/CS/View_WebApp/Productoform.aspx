@@ -22,7 +22,9 @@
         <asp:GridView ID="GridView1" runat="server" Width="373px">
         </asp:GridView>
         <br/>
-        ID:<asp:TextBox ID="TextBox4" runat="server" style="margin-left: 27px" Width="286px"></asp:TextBox>
+        ID:<asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource1" DataTextField="nombre" DataValueField="producto_id" Height="33px" Width="175px">
+        </asp:DropDownList>
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ClientesConnectionString2 %>" SelectCommand="SELECT * FROM [tbl_producto]"></asp:SqlDataSource>
         <br />
         <br />
         <asp:Button ID="Button2" runat="server" Text="Eliminar" OnClick="Button2_Click" />
