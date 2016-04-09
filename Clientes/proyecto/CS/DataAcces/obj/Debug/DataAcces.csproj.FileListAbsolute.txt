@@ -19,3 +19,10 @@ C:\Users\Toshiba\Documents\Ventas\Clientes\proyecto\CS\DataAcces\bin\Debug\Entit
 C:\Users\Toshiba\Documents\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
 C:\Users\Toshiba\Documents\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
 C:\Users\Toshiba\Documents\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.dll
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.pdb
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb

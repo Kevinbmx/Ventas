@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div style="height: 322px">
     
         Nombre:<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <br />
@@ -19,7 +19,15 @@
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
     
+        <br />
+        ID<asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+        <asp:Button ID="Button2" runat="server" OnClick="Button2_Click1" Text="eliminar" />
+    
     </div>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
     </form>
 </body>
 </html>
