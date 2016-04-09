@@ -26,3 +26,10 @@ C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\bin\Debug\DataAcces.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\bin\Debug\DataAcces.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\bin\Debug\Entities.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\DataAcces\obj\Debug\DataAcces.pdb

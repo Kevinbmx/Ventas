@@ -46,3 +46,15 @@ C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\View_WebApp\bin\DataAcces.pdb
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\View_WebApp\obj\Debug\View_WebApp.csprojResolveAssemblyReference.cache
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\View_WebApp\obj\Debug\View.dll
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\View_WebApp\obj\Debug\View.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\View.dll.config
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\View.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\View.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\Controllers.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\Entities.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\DataAcces.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\Controllers.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\Entities.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\bin\DataAcces.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\obj\Debug\View_WebApp.csprojResolveAssemblyReference.cache
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\obj\Debug\View.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\View_WebApp\obj\Debug\View.pdb

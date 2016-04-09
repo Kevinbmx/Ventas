@@ -34,3 +34,12 @@ C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\Controllers\bin\Debug\DataAcc
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\Controllers\obj\Debug\Controllers.dll
 C:\Users\kevin\Desktop\Ventas\Clientes\proyecto\CS\Controllers\obj\Debug\Controllers.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\bin\Debug\Controllers.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\bin\Debug\Controllers.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\bin\Debug\DataAcces.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\bin\Debug\Entities.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\bin\Debug\Entities.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\bin\Debug\DataAcces.pdb
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\obj\Debug\Controllers.dll
+E:\Programacion\git\soft3\Clientes\proyecto\CS\Controllers\obj\Debug\Controllers.pdb
