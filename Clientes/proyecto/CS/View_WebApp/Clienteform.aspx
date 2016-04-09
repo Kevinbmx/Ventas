@@ -15,7 +15,7 @@
         Nit:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
         <br />
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="insertar" />
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
     
